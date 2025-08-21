@@ -1,4 +1,4 @@
-# baitap2182025 nhóm1
+# baitap21082025 nhóm1
 !pip -q install osmnx==1.9.3 scikit-fuzzy folium ipywidgets networkx
 
 import osmnx as ox, networkx as nx, numpy as np, folium
